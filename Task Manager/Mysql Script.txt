@@ -1,0 +1,7 @@
+
+CREATE DATABASE IF NOT EXISTS task_manager;
+CREATE TABLE tasks (
+    id INT NOT NULL AUTO_INCREMENT,
+    task_name VARCHAR(255),
+    PRIMARY KEY (id)
+);
