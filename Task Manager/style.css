@@ -115,9 +115,3 @@ li button.edit-button:hover{
 li button.delete-button:hover {
     background-color: darkred;
 }
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
-}
